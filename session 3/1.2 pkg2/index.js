@@ -1,1 +1,1 @@
-console.log(require("pkg-sample-junyu").say());
+require("pkg-junyu-pkg").say();
